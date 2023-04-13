@@ -1115,9 +1115,9 @@ AcDbViewportTableRecord
  21
 1
  12
-134.6442288954342
+235.5345697858977
  22
-85.57895904370815
+120.170698870356
  13
 0
  23
@@ -1143,9 +1143,9 @@ AcDbViewportTableRecord
  37
 0
  40
-174.062416091324
+290.902106598758
  41
-1.842669845053635
+1.892288861689106
  42
 50
  43
@@ -8597,33 +8597,9 @@ AcDbLine
  21
 141.131
   0
-LINE
-  5
-143
-100
-AcDbEntity
-  8
-0
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-183.9651225973443
- 20
-140.131
- 11
-183.9651225973443
- 21
-57.88455700413766
-  0
 ARC
   5
-144
+143
 100
 AcDbEntity
   8
@@ -8651,7 +8627,7 @@ AcDbArc
   0
 CIRCLE
   5
-145
+144
 100
 AcDbEntity
   8
@@ -8673,7 +8649,7 @@ AcDbCircle
   0
 CIRCLE
   5
-146
+145
 100
 AcDbEntity
   8
@@ -8695,7 +8671,7 @@ AcDbCircle
   0
 CIRCLE
   5
-147
+146
 100
 AcDbEntity
   8
@@ -8717,7 +8693,7 @@ AcDbCircle
   0
 CIRCLE
   5
-148
+147
 100
 AcDbEntity
   8
@@ -8739,7 +8715,7 @@ AcDbCircle
   0
 CIRCLE
   5
-149
+148
 100
 AcDbEntity
   8
@@ -8761,7 +8737,7 @@ AcDbCircle
   0
 CIRCLE
   5
-14A
+149
 100
 AcDbEntity
   8
@@ -8783,7 +8759,7 @@ AcDbCircle
   0
 CIRCLE
   5
-14B
+14A
 100
 AcDbEntity
   8
@@ -8805,7 +8781,7 @@ AcDbCircle
   0
 CIRCLE
   5
-14C
+14B
 100
 AcDbEntity
   8
@@ -8827,7 +8803,7 @@ AcDbCircle
   0
 CIRCLE
   5
-14D
+14C
 100
 AcDbEntity
   8
@@ -8849,7 +8825,7 @@ AcDbCircle
   0
 CIRCLE
   5
-14E
+14D
 100
 AcDbEntity
   8
@@ -8871,7 +8847,7 @@ AcDbCircle
   0
 CIRCLE
   5
-14F
+14E
 100
 AcDbEntity
   8
@@ -8893,7 +8869,7 @@ AcDbCircle
   0
 CIRCLE
   5
-150
+14F
 100
 AcDbEntity
   8
@@ -8915,7 +8891,7 @@ AcDbCircle
   0
 CIRCLE
   5
-151
+150
 100
 AcDbEntity
   8
@@ -8937,7 +8913,7 @@ AcDbCircle
   0
 CIRCLE
   5
-152
+151
 100
 AcDbEntity
   8
@@ -8959,7 +8935,7 @@ AcDbCircle
   0
 LINE
   5
-153
+152
 100
 AcDbEntity
   8
@@ -8980,6 +8956,30 @@ AcDbLine
 143.969
  21
 110.031
+  0
+LINE
+  5
+153
+100
+AcDbEntity
+  8
+0
+  6
+ByLayer
+ 62
+    0
+370
+   -1
+100
+AcDbLine
+ 10
+157.97
+ 20
+110.031
+ 11
+157.97
+ 21
+96.03000000000002
   0
 LINE
   5
@@ -8999,30 +8999,6 @@ AcDbLine
  10
 157.97
  20
-110.031
- 11
-157.97
- 21
-96.03000000000002
-  0
-LINE
-  5
-155
-100
-AcDbEntity
-  8
-0
-  6
-ByLayer
- 62
-    0
-370
-   -1
-100
-AcDbLine
- 10
-157.97
- 20
 96.03000000000002
  11
 143.969
@@ -9031,7 +9007,7 @@ AcDbLine
   0
 LINE
   5
-156
+155
 100
 AcDbEntity
   8
@@ -9055,7 +9031,7 @@ AcDbLine
   0
 CIRCLE
   5
-157
+156
 100
 AcDbEntity
   8
@@ -9077,7 +9053,7 @@ AcDbCircle
   0
 CIRCLE
   5
-158
+157
 100
 AcDbEntity
   8
@@ -9099,7 +9075,7 @@ AcDbCircle
   0
 LINE
   5
-159
+158
 100
 AcDbEntity
   8
@@ -9123,7 +9099,7 @@ AcDbLine
   0
 LINE
   5
-15A
+159
 100
 AcDbEntity
   8
@@ -9147,7 +9123,7 @@ AcDbLine
   0
 CIRCLE
   5
-15B
+15A
 100
 AcDbEntity
   8
@@ -9169,7 +9145,7 @@ AcDbCircle
   0
 LINE
   5
-15C
+15B
 100
 AcDbEntity
   8
@@ -9193,7 +9169,7 @@ AcDbLine
   0
 LINE
   5
-15D
+15C
 100
 AcDbEntity
   8
@@ -9217,7 +9193,7 @@ AcDbLine
   0
 ARC
   5
-15E
+15D
 100
 AcDbEntity
   8
@@ -9245,7 +9221,7 @@ AcDbArc
   0
 LINE
   5
-15F
+15E
 100
 AcDbEntity
   8
@@ -9269,7 +9245,7 @@ AcDbLine
   0
 LINE
   5
-160
+15F
 100
 AcDbEntity
   8
@@ -9293,7 +9269,7 @@ AcDbLine
   0
 ARC
   5
-161
+160
 100
 AcDbEntity
   8
@@ -9321,7 +9297,7 @@ AcDbArc
   0
 LINE
   5
-162
+161
 100
 AcDbEntity
   8
@@ -9345,7 +9321,7 @@ AcDbLine
   0
 CIRCLE
   5
-163
+162
 100
 AcDbEntity
   8
@@ -9397,7 +9373,7 @@ AcDbDictionary
   0
 PLOTSETTINGS
   5
-164
+163
 100
 AcDbPlotSettings
   6
